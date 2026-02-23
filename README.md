@@ -29,7 +29,7 @@ Mais sobre mim: `npx card jeygodoy`
 **Testing, Tools & Low Code:**
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Mendix](https://img.shields.io/badge/Mendix-0051D4?style=for-the-badge&logo=mendix&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-47D1FD?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-47D1FD?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
