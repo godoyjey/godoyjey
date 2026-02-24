@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=600&color=4493F8&vCenter=true&width=1000&height=100&lines=HELLO%2C+I'M+JEY+GODOY;From+Olinda%2C+Brasil+;I+have+a+degree+in+Systems+Analysis+and+Development;And+I+love+pizza%2C+coffee+and+Street+Fighter+)](https://git.io/typing-svg)
 
-### QA Analyst | Fullstack and Low Code Developer 
+### Fullstack and Low Code Developer | QA Analyst
 
 Sou um profissional formado em Análise e Desenvolvimento de Sistemas, com sólida experiência em QA, automação de testes end-to-end com Cypress e liderança operacional. Tenho um perfil analítico e orientado a resultados, com foco em metodologias ágeis e melhoria contínua de processos.
 
