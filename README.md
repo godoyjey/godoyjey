@@ -31,10 +31,11 @@ Mais sobre mim: `npx card jeygodoy`
 **Testing, Tools & Low Code:**
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Mendix](https://img.shields.io/badge/Mendix-0051D4?style=for-the-badge&logo=mendix&logoColor=white)
+![OutSystems](https://img.shields.io/badge/OutSystems-CE181E?style=for-the-badge&logo=outsystems&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![OutSystems](https://img.shields.io/badge/OutSystems-CE181E?style=for-the-badge&logo=outsystems&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
