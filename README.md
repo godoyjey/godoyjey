@@ -8,15 +8,6 @@ Mais sobre mim: `npx card jeygodoy`
 
 ---
 
-### GitHub Statistics
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godoyjey&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### Technologies
 
 **Languages & Core:**
